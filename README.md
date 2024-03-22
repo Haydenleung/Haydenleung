@@ -12,7 +12,7 @@
 
 <p align="center">
   👉
-  <a href="https://www.haydenleung.ca">My Portfolio</a>
+  <a href="https://www.haydenleung.ca"> My Portfolio </a>
     👈
 </p>
 
