@@ -7,16 +7,34 @@
 
 </a>
 
-<h3>Hi there, my name is Hayden Leung 👋 </h3>
+<h3>Hi There, My Name is Hayden Leung 👋 </h3>
 <p>Product Designer & Frontend Developer</p>
 
 <p align="center">
   👉&nbsp;&nbsp;
   <a href="https://www.haydenleung.ca">
     My Portfolio
-    
   </a>
     &nbsp;&nbsp;👈
+</p>
+
+<br/>
+
+<h3>Just Something I Know and Good At</h3>
+
+<p>
+  <a href=""><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+	<a href=""><img alt="Next.js" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+	<a href=""><img alt="Next.js" src=""></a>
+	<a href=""><img alt="Next.js" src=""></a>
+	<a href=""><img alt="Next.js" src=""></a>
+	<a href=""><img alt="Next.js" src=""></a>
+	<a href=""><img alt="Next.js" src=""></a>
+	<a href=""><img alt="Next.js" src=""></a>
+	<a href=""><img alt="Next.js" src=""></a>
+	<a href=""><img alt="Next.js" src=""></a>
+
+  <br>
 </p>
 
 </div>
