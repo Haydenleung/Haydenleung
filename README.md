@@ -11,9 +11,12 @@
 <p>Product Designer & Frontend Developer</p>
 
 <p align="center">
-  👉
-  <a href="https://www.haydenleung.ca"> My Portfolio </a>
-    👈
+  👉&nbsp;&nbsp;
+  <a href="https://www.haydenleung.ca">
+    My Portfolio
+    
+  </a>
+    &nbsp;&nbsp;👈
 </p>
 
 </div>
